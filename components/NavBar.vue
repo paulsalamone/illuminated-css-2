@@ -6,7 +6,8 @@
       <nuxt-link to="/q002-coffee">002 coffee</nuxt-link>
       <nuxt-link to="/q003-diamonds">003 diamonds</nuxt-link>
       <nuxt-link to="/q004-cd">004 CDs</nuxt-link>
-      <nuxt-link to="/q005-globe">004 Globe</nuxt-link>
+      <nuxt-link to="/q005-globe">005 Globe</nuxt-link>
+      <nuxt-link to="/q006-pen">006 Pen</nuxt-link>
     </nav>
   </div>
 </template>
